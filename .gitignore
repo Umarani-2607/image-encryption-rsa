@@ -1,0 +1,10 @@
+# Cryptographic keys
+private.pem
+public.pem
+
+# Encrypted output
+encrypted.bin
+decrypted_sample.jpg
+
+# Python cache
+__pycache__/
