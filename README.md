@@ -33,3 +33,9 @@ can be applied to image data to understand secure data handling.
 - Python
 - PyCryptodome
 - Pillow
+
+## Security Considerations
+
+This project focuses on understanding cryptographic concepts and limitations.
+It intentionally avoids committing sensitive keys and explains why hybrid
+encryption is used in real-world systems.
